@@ -9,4 +9,5 @@ public class ConsoleColors {
     public static final String PURPLE = "\033[0;35m";
     public static final String CYAN = "\033[0;36m";
     public static final String BOLD = "\033[1m";
+
 }
